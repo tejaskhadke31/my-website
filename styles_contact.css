@@ -1,0 +1,110 @@
+body{
+    margin: 0%;
+    text-align:center;
+    background-color:#d3f1f3 ;
+    
+}
+.details{
+    
+    text-align: left;
+    margin: 0 auto 0 auto;
+    font-family: 'Nunito', sans-serif;
+    width: 315px;
+}
+
+hr{
+    border-style: none;
+    border-bottom: dotted;
+    border-width: 6px;
+    border-color: grey;
+    margin:50px auto 50px auto;
+    width: 5%;
+
+}
+
+h2{
+    font-size: 34px;
+    font-family: 'Crete Round', serif;
+    color: #289792;
+}
+h3{
+    text-align: left;
+    margin: 0%;
+    font-family: 'Crete Round', serif;
+    color: #289792;
+}
+.user_info{
+    margin:auto;
+    width: 315px;
+}
+label{
+    float: left;
+    font-family: 'Nunito', sans-serif;
+}
+.name{
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 5px 5px 5px 5px;
+}
+.email{
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 5px 5px 5px 5px;
+}
+.user_message{
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 5px 5px 5px 5px;
+    margin-bottom: 20px;
+}
+.bottom-container{
+    margin-top: 30px;
+    padding: 30px 0 20px;
+    background-color: #289792; 
+}
+.footer-link{
+    color: #06201f;
+    margin: 0 10px 0 10px;
+}
+
+.footer-link:hover{
+    color:aliceblue;
+}
+.end{
+    font-family: 'Varela Round', sans-serif;
+    margin: 20px auto;
+}
+.footer-name{
+    padding-top: 10px;
+    color: aliceblue;
+    font-size: small;
+}
+
+
+.btn {
+    text-transform: uppercase;
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: 'Nunito', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #25ba9f);
+    background-image: -moz-linear-gradient(top, #30e3cb, #25ba9f);
+    background-image: -ms-linear-gradient(top, #30e3cb, #25ba9f);
+    background-image: -o-linear-gradient(top, #30e3cb, #25ba9f);
+    background-image: linear-gradient(to bottom, #30e3cb, #25ba9f);
+    text-decoration: none;
+  }

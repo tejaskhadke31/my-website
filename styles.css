@@ -1,0 +1,162 @@
+body{
+    margin: 0%;
+    text-align:center;
+    background-color:#d3f1f3 ;
+    
+}
+
+.box1{
+    background-color: #b6edf0;
+    padding-top: 140px;
+    position: relative;
+}
+
+.name{
+    font-size: 500%;
+}
+h1{
+    margin:0% auto;
+    font-size: 50px;
+    font-family: 'Courgette', cursive;
+    color:#289792;
+    
+}
+
+.top-cloud{
+    position: absolute;
+    right: 350px;
+    top: 80px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 350px;
+    top: 320px;
+}  
+h2{
+    font-size: 34px;
+    font-family: 'Crete Round', serif;
+    color: #289792;
+}
+h3{
+    color: #289792;
+}
+
+.mountain{
+    height: 350px;
+}
+.middle-container{
+    padding-top: 100px;
+}
+.info{
+   
+    font-family: 'Varela Round', sans-serif;
+}
+
+.profile-pic{
+    height: 135px;
+    width: 120px;
+    border-radius: 10%;
+  
+}
+
+.info-2{
+    font-family: 'Nunito', sans-serif;
+    font-size: 18px;
+    margin: auto;
+    padding-bottom: 30px;
+    width: 28%
+}
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-color: grey;
+    border-width: 6px;
+    margin: 100px auto 100px auto;
+    width: 5%;
+}
+.skill-row{
+    width: 50%;
+    position: center;
+    margin: 80px auto 80px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill-writing-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skill-heading{
+    font-size: 32px;
+}
+.skill-info{
+    font-family: 'Varela Round', sans-serif;
+}
+.poetry-text{
+    font-family: 'Nunito', sans-serif;
+}
+.skill-pizza-img{
+    width: 25% ;
+    float: right;
+    margin-left: 30px;
+}
+.pizza-heading{
+    font-family: 'Varela Round', sans-serif;
+    text-align: left;
+}
+.pizza-text{
+    font-family: 'Nunito', sans-serif;
+}
+.contact-message{
+    font-family: 'Nunito', sans-serif;
+    margin:35px auto;
+    width: 25%;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: 'Nunito', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #25ba9f);
+    background-image: -moz-linear-gradient(top, #30e3cb, #25ba9f);
+    background-image: -ms-linear-gradient(top, #30e3cb, #25ba9f);
+    background-image: -o-linear-gradient(top, #30e3cb, #25ba9f);
+    background-image: linear-gradient(to bottom, #30e3cb, #25ba9f);
+    text-decoration: none;
+  }
+.bottom-container{
+    margin-top: 30px;
+    padding: 30px 0 20px;
+    background-color: #289792; 
+}
+.footer-link{
+    color: #06201f;
+    margin: 0 10px 0 10px;
+    
+}
+.footer-link:hover{
+    color:aliceblue;
+}
+.end{
+    font-family: 'Varela Round', sans-serif;
+    margin: 20px auto;
+}
+.footer-name{
+    padding-top: 10px;
+    color: aliceblue;
+    font-size: small;
+}
