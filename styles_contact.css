@@ -4,14 +4,24 @@ body{
     background-color:#d3f1f3 ;
     
 }
+.box-1{
+    margin: auto;
+    width:70%;
+}
 .details{
     
     text-align: left;
     margin: 0 auto 0 auto;
+    font-size: larger;
     font-family: 'Nunito', sans-serif;
-    width: 315px;
+    padding-left: 4%;
+    width: 45%;
 }
 
+.box-2{
+    margin: auto;
+    width:70%;
+}
 hr{
     border-style: none;
     border-bottom: dotted;
@@ -23,7 +33,7 @@ hr{
 }
 
 h2{
-    font-size: 34px;
+    font-size: 200%;
     font-family: 'Crete Round', serif;
     color: #289792;
 }
@@ -34,8 +44,10 @@ h3{
     color: #289792;
 }
 .user_info{
+    font-size: larger;
     margin:auto;
-    width: 315px;
+    padding-left: 4%;
+    width: 45% ;
 }
 label{
     float: left;
