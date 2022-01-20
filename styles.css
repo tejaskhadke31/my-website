@@ -9,6 +9,7 @@ body{
     background-color: #b6edf0;
     padding-top: 140px;
     position: relative;
+    overflow: hidden;
 }
 
 .name{
@@ -42,7 +43,13 @@ h3{
 }
 
 .mountain{
-    height: 350px;
+    display: flex;
+    margin: auto;
+    min-height: 0%;
+    max-height: 350px;
+    overflow: hidden;
+    min-width: 0%;
+    max-width: 45%;
 }
 .middle-container{
     padding-top: 100px;
